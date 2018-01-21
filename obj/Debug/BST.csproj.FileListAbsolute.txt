@@ -1,0 +1,6 @@
+c:\users\rahul\documents\visual studio 2015\Projects\BST\BST\bin\Debug\BST.exe.config
+C:\Users\Rahul\documents\visual studio 2015\Projects\BST\BST\bin\Debug\BST.exe
+C:\Users\Rahul\documents\visual studio 2015\Projects\BST\BST\bin\Debug\BST.pdb
+C:\Users\Rahul\documents\visual studio 2015\Projects\BST\BST\obj\Debug\BST.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\documents\visual studio 2015\Projects\BST\BST\obj\Debug\BST.exe
+C:\Users\Rahul\documents\visual studio 2015\Projects\BST\BST\obj\Debug\BST.pdb
